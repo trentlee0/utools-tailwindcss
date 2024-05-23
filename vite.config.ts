@@ -8,7 +8,8 @@ export default defineConfig({
       output: {
         format: 'cjs',
         entryFileNames: '[name].js',
-        manualChunks: (id) => {
+        manualChunks: (id, meta) => {
+          meta
           if (id.endsWith('.json')) {
             return 'vendor'
           }

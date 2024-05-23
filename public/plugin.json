@@ -7,7 +7,8 @@
       "explain": "搜索 Tailwind CSS 文档",
       "cmds": [
         "Tailwind CSS Document",
-        "Tailwind CSS 文档"
+        "Tailwind CSS 文档",
+        "TW Doc"
       ]
     },
     {
@@ -15,7 +16,8 @@
       "explain": "查找 Tailwind CSS 类名",
       "cmds": [
         "Tailwind CSS Class",
-        "Tailwind CSS 类名"
+        "Tailwind CSS 类名",
+        "TW Class"
       ]
     }
   ]

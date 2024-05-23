@@ -1,0 +1,861 @@
+{
+  "version": "v3.4.0",
+  "data": [
+    {
+      "head": "Getting Started",
+      "list": [
+        {
+          "title": "Installation",
+          "url": "https://tailwindcss.com/docs/installation"
+        },
+        {
+          "title": "Editor Setup",
+          "url": "https://tailwindcss.com/docs/editor-setup"
+        },
+        {
+          "title": "Using with Preprocessors",
+          "url": "https://tailwindcss.com/docs/using-with-preprocessors"
+        },
+        {
+          "title": "Optimizing for Production",
+          "url": "https://tailwindcss.com/docs/optimizing-for-production"
+        },
+        {
+          "title": "Browser Support",
+          "url": "https://tailwindcss.com/docs/browser-support"
+        },
+        {
+          "title": "Upgrade Guide",
+          "url": "https://tailwindcss.com/docs/upgrade-guide"
+        }
+      ]
+    },
+    {
+      "head": "Core Concepts",
+      "list": [
+        {
+          "title": "Utility-First Fundamentals",
+          "url": "https://tailwindcss.com/docs/utility-first"
+        },
+        {
+          "title": "Hover, Focus, and Other States",
+          "url": "https://tailwindcss.com/docs/hover-focus-and-other-states"
+        },
+        {
+          "title": "Responsive Design",
+          "url": "https://tailwindcss.com/docs/responsive-design"
+        },
+        {
+          "title": "Dark Mode",
+          "url": "https://tailwindcss.com/docs/dark-mode"
+        },
+        {
+          "title": "Reusing Styles",
+          "url": "https://tailwindcss.com/docs/reusing-styles"
+        },
+        {
+          "title": "Adding Custom Styles",
+          "url": "https://tailwindcss.com/docs/adding-custom-styles"
+        },
+        {
+          "title": "Functions & Directives",
+          "url": "https://tailwindcss.com/docs/functions-and-directives"
+        }
+      ]
+    },
+    {
+      "head": "Customization",
+      "list": [
+        {
+          "title": "Configuration",
+          "url": "https://tailwindcss.com/docs/configuration"
+        },
+        {
+          "title": "Content",
+          "url": "https://tailwindcss.com/docs/content-configuration"
+        },
+        {
+          "title": "Theme",
+          "url": "https://tailwindcss.com/docs/theme"
+        },
+        {
+          "title": "Screens",
+          "url": "https://tailwindcss.com/docs/screens"
+        },
+        {
+          "title": "Colors",
+          "url": "https://tailwindcss.com/docs/customizing-colors"
+        },
+        {
+          "title": "Spacing",
+          "url": "https://tailwindcss.com/docs/customizing-spacing"
+        },
+        {
+          "title": "Plugins",
+          "url": "https://tailwindcss.com/docs/plugins"
+        },
+        {
+          "title": "Presets",
+          "url": "https://tailwindcss.com/docs/presets"
+        }
+      ]
+    },
+    {
+      "head": "Base Styles",
+      "list": [
+        {
+          "title": "Preflight",
+          "url": "https://tailwindcss.com/docs/preflight"
+        }
+      ]
+    },
+    {
+      "head": "Layout",
+      "list": [
+        {
+          "title": "Aspect Ratio",
+          "url": "https://tailwindcss.com/docs/aspect-ratio"
+        },
+        {
+          "title": "Container",
+          "url": "https://tailwindcss.com/docs/container"
+        },
+        {
+          "title": "Columns",
+          "url": "https://tailwindcss.com/docs/columns"
+        },
+        {
+          "title": "Break After",
+          "url": "https://tailwindcss.com/docs/break-after"
+        },
+        {
+          "title": "Break Before",
+          "url": "https://tailwindcss.com/docs/break-before"
+        },
+        {
+          "title": "Break Inside",
+          "url": "https://tailwindcss.com/docs/break-inside"
+        },
+        {
+          "title": "Box Decoration Break",
+          "url": "https://tailwindcss.com/docs/box-decoration-break"
+        },
+        {
+          "title": "Box Sizing",
+          "url": "https://tailwindcss.com/docs/box-sizing"
+        },
+        {
+          "title": "Display",
+          "url": "https://tailwindcss.com/docs/display"
+        },
+        {
+          "title": "Floats",
+          "url": "https://tailwindcss.com/docs/float"
+        },
+        {
+          "title": "Clear",
+          "url": "https://tailwindcss.com/docs/clear"
+        },
+        {
+          "title": "Isolation",
+          "url": "https://tailwindcss.com/docs/isolation"
+        },
+        {
+          "title": "Object Fit",
+          "url": "https://tailwindcss.com/docs/object-fit"
+        },
+        {
+          "title": "Object Position",
+          "url": "https://tailwindcss.com/docs/object-position"
+        },
+        {
+          "title": "Overflow",
+          "url": "https://tailwindcss.com/docs/overflow"
+        },
+        {
+          "title": "Overscroll Behavior",
+          "url": "https://tailwindcss.com/docs/overscroll-behavior"
+        },
+        {
+          "title": "Position",
+          "url": "https://tailwindcss.com/docs/position"
+        },
+        {
+          "title": "Top / Right / Bottom / Left",
+          "url": "https://tailwindcss.com/docs/top-right-bottom-left"
+        },
+        {
+          "title": "Visibility",
+          "url": "https://tailwindcss.com/docs/visibility"
+        },
+        {
+          "title": "Z-Index",
+          "url": "https://tailwindcss.com/docs/z-index"
+        }
+      ]
+    },
+    {
+      "head": "Flexbox & Grid",
+      "list": [
+        {
+          "title": "Flex Basis",
+          "url": "https://tailwindcss.com/docs/flex-basis"
+        },
+        {
+          "title": "Flex Direction",
+          "url": "https://tailwindcss.com/docs/flex-direction"
+        },
+        {
+          "title": "Flex Wrap",
+          "url": "https://tailwindcss.com/docs/flex-wrap"
+        },
+        {
+          "title": "Flex",
+          "url": "https://tailwindcss.com/docs/flex"
+        },
+        {
+          "title": "Flex Grow",
+          "url": "https://tailwindcss.com/docs/flex-grow"
+        },
+        {
+          "title": "Flex Shrink",
+          "url": "https://tailwindcss.com/docs/flex-shrink"
+        },
+        {
+          "title": "Order",
+          "url": "https://tailwindcss.com/docs/order"
+        },
+        {
+          "title": "Grid Template Columns",
+          "url": "https://tailwindcss.com/docs/grid-template-columns"
+        },
+        {
+          "title": "Grid Column Start / End",
+          "url": "https://tailwindcss.com/docs/grid-column"
+        },
+        {
+          "title": "Grid Template Rows",
+          "url": "https://tailwindcss.com/docs/grid-template-rows"
+        },
+        {
+          "title": "Grid Row Start / End",
+          "url": "https://tailwindcss.com/docs/grid-row"
+        },
+        {
+          "title": "Grid Auto Flow",
+          "url": "https://tailwindcss.com/docs/grid-auto-flow"
+        },
+        {
+          "title": "Grid Auto Columns",
+          "url": "https://tailwindcss.com/docs/grid-auto-columns"
+        },
+        {
+          "title": "Grid Auto Rows",
+          "url": "https://tailwindcss.com/docs/grid-auto-rows"
+        },
+        {
+          "title": "Gap",
+          "url": "https://tailwindcss.com/docs/gap"
+        },
+        {
+          "title": "Justify Content",
+          "url": "https://tailwindcss.com/docs/justify-content"
+        },
+        {
+          "title": "Justify Items",
+          "url": "https://tailwindcss.com/docs/justify-items"
+        },
+        {
+          "title": "Justify Self",
+          "url": "https://tailwindcss.com/docs/justify-self"
+        },
+        {
+          "title": "Align Content",
+          "url": "https://tailwindcss.com/docs/align-content"
+        },
+        {
+          "title": "Align Items",
+          "url": "https://tailwindcss.com/docs/align-items"
+        },
+        {
+          "title": "Align Self",
+          "url": "https://tailwindcss.com/docs/align-self"
+        },
+        {
+          "title": "Place Content",
+          "url": "https://tailwindcss.com/docs/place-content"
+        },
+        {
+          "title": "Place Items",
+          "url": "https://tailwindcss.com/docs/place-items"
+        },
+        {
+          "title": "Place Self",
+          "url": "https://tailwindcss.com/docs/place-self"
+        }
+      ]
+    },
+    {
+      "head": "Spacing",
+      "list": [
+        {
+          "title": "Padding",
+          "url": "https://tailwindcss.com/docs/padding"
+        },
+        {
+          "title": "Margin",
+          "url": "https://tailwindcss.com/docs/margin"
+        },
+        {
+          "title": "Space Between",
+          "url": "https://tailwindcss.com/docs/space"
+        }
+      ]
+    },
+    {
+      "head": "Sizing",
+      "list": [
+        {
+          "title": "Width",
+          "url": "https://tailwindcss.com/docs/width"
+        },
+        {
+          "title": "Min-Width",
+          "url": "https://tailwindcss.com/docs/min-width"
+        },
+        {
+          "title": "Max-Width",
+          "url": "https://tailwindcss.com/docs/max-width"
+        },
+        {
+          "title": "Height",
+          "url": "https://tailwindcss.com/docs/height"
+        },
+        {
+          "title": "Min-Height",
+          "url": "https://tailwindcss.com/docs/min-height"
+        },
+        {
+          "title": "Max-Height",
+          "url": "https://tailwindcss.com/docs/max-height"
+        },
+        {
+          "title": "Size",
+          "url": "https://tailwindcss.com/docs/size"
+        }
+      ]
+    },
+    {
+      "head": "Typography",
+      "list": [
+        {
+          "title": "Font Family",
+          "url": "https://tailwindcss.com/docs/font-family"
+        },
+        {
+          "title": "Font Size",
+          "url": "https://tailwindcss.com/docs/font-size"
+        },
+        {
+          "title": "Font Smoothing",
+          "url": "https://tailwindcss.com/docs/font-smoothing"
+        },
+        {
+          "title": "Font Style",
+          "url": "https://tailwindcss.com/docs/font-style"
+        },
+        {
+          "title": "Font Weight",
+          "url": "https://tailwindcss.com/docs/font-weight"
+        },
+        {
+          "title": "Font Variant Numeric",
+          "url": "https://tailwindcss.com/docs/font-variant-numeric"
+        },
+        {
+          "title": "Letter Spacing",
+          "url": "https://tailwindcss.com/docs/letter-spacing"
+        },
+        {
+          "title": "Line Clamp",
+          "url": "https://tailwindcss.com/docs/line-clamp"
+        },
+        {
+          "title": "Line Height",
+          "url": "https://tailwindcss.com/docs/line-height"
+        },
+        {
+          "title": "List Style Image",
+          "url": "https://tailwindcss.com/docs/list-style-image"
+        },
+        {
+          "title": "List Style Position",
+          "url": "https://tailwindcss.com/docs/list-style-position"
+        },
+        {
+          "title": "List Style Type",
+          "url": "https://tailwindcss.com/docs/list-style-type"
+        },
+        {
+          "title": "Text Align",
+          "url": "https://tailwindcss.com/docs/text-align"
+        },
+        {
+          "title": "Text Color",
+          "url": "https://tailwindcss.com/docs/text-color"
+        },
+        {
+          "title": "Text Decoration",
+          "url": "https://tailwindcss.com/docs/text-decoration"
+        },
+        {
+          "title": "Text Decoration Color",
+          "url": "https://tailwindcss.com/docs/text-decoration-color"
+        },
+        {
+          "title": "Text Decoration Style",
+          "url": "https://tailwindcss.com/docs/text-decoration-style"
+        },
+        {
+          "title": "Text Decoration Thickness",
+          "url": "https://tailwindcss.com/docs/text-decoration-thickness"
+        },
+        {
+          "title": "Text Underline Offset",
+          "url": "https://tailwindcss.com/docs/text-underline-offset"
+        },
+        {
+          "title": "Text Transform",
+          "url": "https://tailwindcss.com/docs/text-transform"
+        },
+        {
+          "title": "Text Overflow",
+          "url": "https://tailwindcss.com/docs/text-overflow"
+        },
+        {
+          "title": "Text Wrap",
+          "url": "https://tailwindcss.com/docs/text-wrap"
+        },
+        {
+          "title": "Text Indent",
+          "url": "https://tailwindcss.com/docs/text-indent"
+        },
+        {
+          "title": "Vertical Align",
+          "url": "https://tailwindcss.com/docs/vertical-align"
+        },
+        {
+          "title": "Whitespace",
+          "url": "https://tailwindcss.com/docs/whitespace"
+        },
+        {
+          "title": "Word Break",
+          "url": "https://tailwindcss.com/docs/word-break"
+        },
+        {
+          "title": "Hyphens",
+          "url": "https://tailwindcss.com/docs/hyphens"
+        },
+        {
+          "title": "Content",
+          "url": "https://tailwindcss.com/docs/content"
+        }
+      ]
+    },
+    {
+      "head": "Backgrounds",
+      "list": [
+        {
+          "title": "Background Attachment",
+          "url": "https://tailwindcss.com/docs/background-attachment"
+        },
+        {
+          "title": "Background Clip",
+          "url": "https://tailwindcss.com/docs/background-clip"
+        },
+        {
+          "title": "Background Color",
+          "url": "https://tailwindcss.com/docs/background-color"
+        },
+        {
+          "title": "Background Origin",
+          "url": "https://tailwindcss.com/docs/background-origin"
+        },
+        {
+          "title": "Background Position",
+          "url": "https://tailwindcss.com/docs/background-position"
+        },
+        {
+          "title": "Background Repeat",
+          "url": "https://tailwindcss.com/docs/background-repeat"
+        },
+        {
+          "title": "Background Size",
+          "url": "https://tailwindcss.com/docs/background-size"
+        },
+        {
+          "title": "Background Image",
+          "url": "https://tailwindcss.com/docs/background-image"
+        },
+        {
+          "title": "Gradient Color Stops",
+          "url": "https://tailwindcss.com/docs/gradient-color-stops"
+        }
+      ]
+    },
+    {
+      "head": "Borders",
+      "list": [
+        {
+          "title": "Border Radius",
+          "url": "https://tailwindcss.com/docs/border-radius"
+        },
+        {
+          "title": "Border Width",
+          "url": "https://tailwindcss.com/docs/border-width"
+        },
+        {
+          "title": "Border Color",
+          "url": "https://tailwindcss.com/docs/border-color"
+        },
+        {
+          "title": "Border Style",
+          "url": "https://tailwindcss.com/docs/border-style"
+        },
+        {
+          "title": "Divide Width",
+          "url": "https://tailwindcss.com/docs/divide-width"
+        },
+        {
+          "title": "Divide Color",
+          "url": "https://tailwindcss.com/docs/divide-color"
+        },
+        {
+          "title": "Divide Style",
+          "url": "https://tailwindcss.com/docs/divide-style"
+        },
+        {
+          "title": "Outline Width",
+          "url": "https://tailwindcss.com/docs/outline-width"
+        },
+        {
+          "title": "Outline Color",
+          "url": "https://tailwindcss.com/docs/outline-color"
+        },
+        {
+          "title": "Outline Style",
+          "url": "https://tailwindcss.com/docs/outline-style"
+        },
+        {
+          "title": "Outline Offset",
+          "url": "https://tailwindcss.com/docs/outline-offset"
+        },
+        {
+          "title": "Ring Width",
+          "url": "https://tailwindcss.com/docs/ring-width"
+        },
+        {
+          "title": "Ring Color",
+          "url": "https://tailwindcss.com/docs/ring-color"
+        },
+        {
+          "title": "Ring Offset Width",
+          "url": "https://tailwindcss.com/docs/ring-offset-width"
+        },
+        {
+          "title": "Ring Offset Color",
+          "url": "https://tailwindcss.com/docs/ring-offset-color"
+        }
+      ]
+    },
+    {
+      "head": "Effects",
+      "list": [
+        {
+          "title": "Box Shadow",
+          "url": "https://tailwindcss.com/docs/box-shadow"
+        },
+        {
+          "title": "Box Shadow Color",
+          "url": "https://tailwindcss.com/docs/box-shadow-color"
+        },
+        {
+          "title": "Opacity",
+          "url": "https://tailwindcss.com/docs/opacity"
+        },
+        {
+          "title": "Mix Blend Mode",
+          "url": "https://tailwindcss.com/docs/mix-blend-mode"
+        },
+        {
+          "title": "Background Blend Mode",
+          "url": "https://tailwindcss.com/docs/background-blend-mode"
+        }
+      ]
+    },
+    {
+      "head": "Filters",
+      "list": [
+        {
+          "title": "Blur",
+          "url": "https://tailwindcss.com/docs/blur"
+        },
+        {
+          "title": "Brightness",
+          "url": "https://tailwindcss.com/docs/brightness"
+        },
+        {
+          "title": "Contrast",
+          "url": "https://tailwindcss.com/docs/contrast"
+        },
+        {
+          "title": "Drop Shadow",
+          "url": "https://tailwindcss.com/docs/drop-shadow"
+        },
+        {
+          "title": "Grayscale",
+          "url": "https://tailwindcss.com/docs/grayscale"
+        },
+        {
+          "title": "Hue Rotate",
+          "url": "https://tailwindcss.com/docs/hue-rotate"
+        },
+        {
+          "title": "Invert",
+          "url": "https://tailwindcss.com/docs/invert"
+        },
+        {
+          "title": "Saturate",
+          "url": "https://tailwindcss.com/docs/saturate"
+        },
+        {
+          "title": "Sepia",
+          "url": "https://tailwindcss.com/docs/sepia"
+        },
+        {
+          "title": "Backdrop Blur",
+          "url": "https://tailwindcss.com/docs/backdrop-blur"
+        },
+        {
+          "title": "Backdrop Brightness",
+          "url": "https://tailwindcss.com/docs/backdrop-brightness"
+        },
+        {
+          "title": "Backdrop Contrast",
+          "url": "https://tailwindcss.com/docs/backdrop-contrast"
+        },
+        {
+          "title": "Backdrop Grayscale",
+          "url": "https://tailwindcss.com/docs/backdrop-grayscale"
+        },
+        {
+          "title": "Backdrop Hue Rotate",
+          "url": "https://tailwindcss.com/docs/backdrop-hue-rotate"
+        },
+        {
+          "title": "Backdrop Invert",
+          "url": "https://tailwindcss.com/docs/backdrop-invert"
+        },
+        {
+          "title": "Backdrop Opacity",
+          "url": "https://tailwindcss.com/docs/backdrop-opacity"
+        },
+        {
+          "title": "Backdrop Saturate",
+          "url": "https://tailwindcss.com/docs/backdrop-saturate"
+        },
+        {
+          "title": "Backdrop Sepia",
+          "url": "https://tailwindcss.com/docs/backdrop-sepia"
+        }
+      ]
+    },
+    {
+      "head": "Tables",
+      "list": [
+        {
+          "title": "Border Collapse",
+          "url": "https://tailwindcss.com/docs/border-collapse"
+        },
+        {
+          "title": "Border Spacing",
+          "url": "https://tailwindcss.com/docs/border-spacing"
+        },
+        {
+          "title": "Table Layout",
+          "url": "https://tailwindcss.com/docs/table-layout"
+        },
+        {
+          "title": "Caption Side",
+          "url": "https://tailwindcss.com/docs/caption-side"
+        }
+      ]
+    },
+    {
+      "head": "Transitions & Animation",
+      "list": [
+        {
+          "title": "Transition Property",
+          "url": "https://tailwindcss.com/docs/transition-property"
+        },
+        {
+          "title": "Transition Duration",
+          "url": "https://tailwindcss.com/docs/transition-duration"
+        },
+        {
+          "title": "Transition Timing Function",
+          "url": "https://tailwindcss.com/docs/transition-timing-function"
+        },
+        {
+          "title": "Transition Delay",
+          "url": "https://tailwindcss.com/docs/transition-delay"
+        },
+        {
+          "title": "Animation",
+          "url": "https://tailwindcss.com/docs/animation"
+        }
+      ]
+    },
+    {
+      "head": "Transforms",
+      "list": [
+        {
+          "title": "Scale",
+          "url": "https://tailwindcss.com/docs/scale"
+        },
+        {
+          "title": "Rotate",
+          "url": "https://tailwindcss.com/docs/rotate"
+        },
+        {
+          "title": "Translate",
+          "url": "https://tailwindcss.com/docs/translate"
+        },
+        {
+          "title": "Skew",
+          "url": "https://tailwindcss.com/docs/skew"
+        },
+        {
+          "title": "Transform Origin",
+          "url": "https://tailwindcss.com/docs/transform-origin"
+        }
+      ]
+    },
+    {
+      "head": "Interactivity",
+      "list": [
+        {
+          "title": "Accent Color",
+          "url": "https://tailwindcss.com/docs/accent-color"
+        },
+        {
+          "title": "Appearance",
+          "url": "https://tailwindcss.com/docs/appearance"
+        },
+        {
+          "title": "Cursor",
+          "url": "https://tailwindcss.com/docs/cursor"
+        },
+        {
+          "title": "Caret Color",
+          "url": "https://tailwindcss.com/docs/caret-color"
+        },
+        {
+          "title": "Pointer Events",
+          "url": "https://tailwindcss.com/docs/pointer-events"
+        },
+        {
+          "title": "Resize",
+          "url": "https://tailwindcss.com/docs/resize"
+        },
+        {
+          "title": "Scroll Behavior",
+          "url": "https://tailwindcss.com/docs/scroll-behavior"
+        },
+        {
+          "title": "Scroll Margin",
+          "url": "https://tailwindcss.com/docs/scroll-margin"
+        },
+        {
+          "title": "Scroll Padding",
+          "url": "https://tailwindcss.com/docs/scroll-padding"
+        },
+        {
+          "title": "Scroll Snap Align",
+          "url": "https://tailwindcss.com/docs/scroll-snap-align"
+        },
+        {
+          "title": "Scroll Snap Stop",
+          "url": "https://tailwindcss.com/docs/scroll-snap-stop"
+        },
+        {
+          "title": "Scroll Snap Type",
+          "url": "https://tailwindcss.com/docs/scroll-snap-type"
+        },
+        {
+          "title": "Touch Action",
+          "url": "https://tailwindcss.com/docs/touch-action"
+        },
+        {
+          "title": "User Select",
+          "url": "https://tailwindcss.com/docs/user-select"
+        },
+        {
+          "title": "Will Change",
+          "url": "https://tailwindcss.com/docs/will-change"
+        }
+      ]
+    },
+    {
+      "head": "SVG",
+      "list": [
+        {
+          "title": "Fill",
+          "url": "https://tailwindcss.com/docs/fill"
+        },
+        {
+          "title": "Stroke",
+          "url": "https://tailwindcss.com/docs/stroke"
+        },
+        {
+          "title": "Stroke Width",
+          "url": "https://tailwindcss.com/docs/stroke-width"
+        }
+      ]
+    },
+    {
+      "head": "Accessibility",
+      "list": [
+        {
+          "title": "Screen Readers",
+          "url": "https://tailwindcss.com/docs/screen-readers"
+        },
+        {
+          "title": "Forced Color Adjust",
+          "url": "https://tailwindcss.com/docs/forced-color-adjust"
+        }
+      ]
+    },
+    {
+      "head": "Official Plugins",
+      "list": [
+        {
+          "title": "Typography",
+          "url": "https://tailwindcss.com/docs/typography-plugin"
+        },
+        {
+          "title": "Forms",
+          "url": "https://github.com/tailwindlabs/tailwindcss-forms"
+        },
+        {
+          "title": "Aspect Ratio",
+          "url": "https://github.com/tailwindlabs/tailwindcss-aspect-ratio"
+        },
+        {
+          "title": "Container Queries",
+          "url": "https://github.com/tailwindlabs/tailwindcss-container-queries"
+        }
+      ]
+    }
+  ]
+}
